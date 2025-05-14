@@ -102,39 +102,6 @@ MAE (Mean Absolute Error)
 
 MAPE (Mean Absolute Percentage Error)
 
-📊 Sample Results (Actual):
-
-Model
-
-RMSE
-
-MAE
-
-MAPE (%)
-
-SARIMAX
-
-65.02
-
-53.56
-
-1.07
-
-Prophet
-
-65.03
-
-54.01
-
-1.08
-
-LSTM
-
-65.11
-
-53.03
-
-1.06
 
 All three models performed well, with LSTM slightly outperforming in MAPE. These results give confidence to use these models for future sales forecasting.
 
